@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "svg.charts",
+  "versions": [
+    {
+      "commit": "9032cb1a993560acd40d17e6d284f7a319f47508",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:30:51.575058+00:00"
+    }
+  ]
+}
